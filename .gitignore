@@ -1,0 +1,17 @@
+# Simulation outputs
+sim/
+*.vcd
+*.vvp
+*.vpd
+*.fst
+*.lxt
+*.lxt2
+
+# Compiled files
+*.out
+*.log
+*.daidir/
+csrc/
+
+# Editor files
+.vscode/
